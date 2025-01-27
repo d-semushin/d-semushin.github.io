@@ -23,3 +23,8 @@ markdown:
     superscript: false
     heading_ids: false
     attributes: false
+_snippets_imports:
+  python_markdown_extensions:
+    include:
+      - python_markdown_admonition
+      - python_markdown_collapsible_admonition
