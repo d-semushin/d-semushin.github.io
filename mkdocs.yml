@@ -19,7 +19,7 @@ theme:
     - search.share
     - navigation.footer
     - navigation.top
-  logo: assets/Logo.png
+  logo: img/Logo.png
   favicon: https://novilock.ru/image/catalog/Finger-grey.png
   name: material
   icon:
