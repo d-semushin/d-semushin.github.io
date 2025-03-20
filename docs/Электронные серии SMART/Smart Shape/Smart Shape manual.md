@@ -87,11 +87,11 @@
 	<tbody>
 		<tr>
 			<td style="border-top-style: solid; border-top-width: 0.75pt; border-right-style: solid; border-right-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><strong><p style="font-size: 11pt;">Модель</p</strong></td>
-			<td style="border-top-style: solid; border-top-width: 0.75pt; border-left-style: solid; border-left-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><strong><p style="font-size: 11pt;">NPL-EC16D</p</strong></td>
+			<td style="border-top-style: solid; border-top-width: 0.75pt; border-left-style: solid; border-left-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><strong><p style="font-size: 11pt;">Smart Shape</p</strong></td>
 		</tr>
 		<tr>
 			<td style="border-top-style: solid; border-top-width: 0.75pt; border-right-style: solid; border-right-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><p style="font-size: 11pt;">Версия</p</td>
-			<td style="border-top-style: solid; border-top-width: 0.75pt; border-left-style: solid; border-left-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><p style="font-size: 11pt;">9016L</p</td>
+			<td style="border-top-style: solid; border-top-width: 0.75pt; border-left-style: solid; border-left-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><p style="font-size: 11pt;">1012L</p</td>
 		</tr>
 		<tr>
 			<td style="border-top-style: solid; border-top-width: 0.75pt; border-right-style: solid; border-right-width: 0.75pt; border-bottom-style: solid; border-bottom-width: 0.75pt; vertical-align: middle; text-align: left;"><p style="font-size: 11pt;">Считыватель</p></td>
@@ -175,7 +175,21 @@
 
 
 
+## Установка и подключение
+### Общие рекомендации перед установкой
 
+1. Перед установкой проверьте комплектацию. Она должна соответствовать заявленной в Паспорте изделия. 
+2. Осмотрите устройство перед использованием. Извлеките из упаковки и проверьте на предмет повреждений, которые могли произойти во время транспортировки. 
+3. При обнаружении каких-либо несоответствий в комплектации или повреждений, обратитесь к производителю или дистрибьютору для замены устройства. 
+4. В случае неисправности не осуществляйте самостоятельный ремонт устройства.
+5. Убедитесь, что габариты и другие параметры двери соответствуют техническим характеристикам устройства. 
 
+### Направлении ручки замка и открытия двери
+!!! warning "Направление ручки замка"
+	Ручка замка имеет регулируемое направление. Измените его в соответствии со стороной открывания Вашей двери.
 
+<img src="assets/image-20250319165329370.png#only-light" alt="image-20250319165329370" style="zoom:25%;" align="left" />
 
+<img src="assets/image-20250319165700395.png#only-dark" alt="image-20250319165700395" style="zoom:25%;" align="left"/>
+
+Поверните ручку на передней панели. Ослабьте внутренний шестигранный винт рукоятки против часовой стрелки.
